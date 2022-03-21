@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/mananjain011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mananjain011" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manan-jain1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-jain1103" height="30" width="40" /></a>
-<a href="https://instagram.com/manan.j011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manan.j011" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manan.jain011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manan.j011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manan011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manan011" height="30" width="40" /></a>
 </p>
 
