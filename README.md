@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mananjain011" target="blank"><img src="https://img.shields.io/twitter/follow/mananjain011?logo=twitter&style=for-the-badge" alt="mananjain011" /></a> </p>
 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
