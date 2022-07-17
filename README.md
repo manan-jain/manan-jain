@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-jain&label=Profile%20views&color=0e75b6&style=flat" alt="manan-jain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manan-jain" alt="manan-jain" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manan-jain" alt="manan-jain" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/mananjain011" target="blank"><img src="https://img.shields.io/twitter/follow/mananjain011?logo=twitter&style=for-the-badge" alt="mananjain011" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/mananjain011" target="blank"><img src="https://img.shields.io/twitter/follow/mananjain011?logo=twitter&style=for-the-badge" alt="mananjain011" /></a> </p> -->
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
