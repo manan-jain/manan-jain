@@ -37,6 +37,3 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manan-jain&show_icons=true&theme=dark&line_height=27&locale=en" alt="manan-jain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan-jain&show_icons=true&theme=dark&line_height=29" alt="manan-jain" /></p>
-<br>
-<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
