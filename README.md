@@ -32,10 +32,8 @@
 
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan-jain&show_icons=true&theme=algolia&line_height=27&locale=en&layout=compact" alt="manan-jain" /></p> -->
-<p align="center">
 <a href="https://github.com/manan-jain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-jain&theme=algolia&hide_langs_below=1" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=manan-jain&show_icons=true&theme=algolia&line_height=27&locale=en" alt="manan-jain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan-jain&show_icons=true&theme=algolia&line_height=29" alt="manan-jain" /></p>
-</p>
