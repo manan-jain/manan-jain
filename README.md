@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Jain</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-jain&label=Profile%20views&color=0e75b6&style=flat" alt="manan-jain" /> </p>
 
@@ -9,13 +9,13 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working as **Front End Developer**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 💬 Ask me about **C++, Java and Kotlin**
+- 💬 Ask me about **C++, Java, Javascript, Typescript**
 
 - 📫 How to reach me **mananj11@gmail.com**
 
